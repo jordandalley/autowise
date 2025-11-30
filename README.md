@@ -25,7 +25,7 @@ Step 3 - Create Cloudflare Worker
 2. Afterwards, add the following environmental variables
 
 | Type | Name | Example Value | Description |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | Plaintext | WEBHOOK_PASSWORD | thisisapassword | Generate a password for the webhook |
 | Secret | WISE_API_TOKEN | wfh93q4fnq4937n0q374q93d73q0294dn9082q | Your API token from Wise for initiating transfers |
 | Plaintext | WISE_API_URL | https://api.transferwise.com | API endpoint for Wise |
